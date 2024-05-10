@@ -1,0 +1,13 @@
+.room{
+    position:relative;
+    outline:solid;
+    outline-width: 20px;
+    outline-color: blue;
+    background-color: green;
+}
+.point{
+    position:absolute;
+    width: 20px;
+    height: 20px;
+
+}
